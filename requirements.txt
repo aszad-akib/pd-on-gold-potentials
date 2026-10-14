@@ -1,0 +1,7 @@
+ase>=3.23
+numpy
+scipy
+matplotlib
+torch            # CPU build is enough
+mace-torch       # MACE-MP-0 and MACE-MPA-0
+chgnet           # CHGNet

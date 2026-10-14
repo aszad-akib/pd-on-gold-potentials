@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+nohup.out
+*.traj
+constraints.txt
+eam/

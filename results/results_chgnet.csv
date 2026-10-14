@@ -1,0 +1,12 @@
+potential,facet,site,n_Au_neighbours,E_ads_eV,E_ads_kJmol,height_A,d_PdAu_A
+chgnet,Au(111),ontop,1,-1.788,-172.5,1.78,2.485
+chgnet,Au(111),bridge,2,-2.2242,-214.6,1.85,2.588
+chgnet,Au(111),fcc,3,-2.188,-211.1,1.83,2.623
+chgnet,Au(111),hcp,3,-2.2028,-212.5,1.81,2.617
+chgnet,Au(100),ontop,1,-1.5866,-153.1,1.67,2.544
+chgnet,Au(100),bridge,2,-1.8671,-180.1,1.78,2.552
+chgnet,Au(100),hollow,4,-2.796,-269.8,1.33,2.646
+chgnet,Au(110),ontop,1,-1.0677,-103.0,2.22,2.523
+chgnet,Au(110),shortbridge,2,-1.6594,-160.1,1.92,2.566
+chgnet,Au(110),longbridge,4,-2.7314,-263.5,0.83,2.638
+chgnet,Au(110),hollow,5,-2.9951,-289.0,1.16,2.654
